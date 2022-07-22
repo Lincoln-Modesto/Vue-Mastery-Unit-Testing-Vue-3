@@ -1,5 +1,7 @@
 # unit-testing-vue
 
+Vue Mastery - Unit Testing Vue 3
+
 ## Project setup
 ```
 yarn install
